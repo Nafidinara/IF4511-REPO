@@ -1,3 +1,18 @@
+## RULES
+1. Fork repo ini.
+2. Clone hasil fork dari repo ini.
+3. Buatlah file sesuai soal yang akan dikerjakan.
+4. dalam membuat file taruh identitas di paling atas. contoh : 
+```
+# Nama : Alfara Nafi Dinara
+# Username : nafidinara
+<YOUR CODE HERE/>
+```
+5. Setelah selesai lakukan push dan pull request.
+7. Satu anak maksimal mengerjakan 4 soal
+8. Jika pull request belum di accept, jangan mengerjakan soal lainya dulu
+
+[video tutorial](https://drive.google.com/file/d/1YCBIJManN2GU99DDMjdS3kLBac2JQtbO/view?usp=sharing)
 
 ### BANK SOAL
 1. buatlah program menghitung luas lingkaran (luas_lingkaran.py)
@@ -54,18 +69,3 @@
 1. Jika cuaca hujan dan suhu dibawah 15°C maka saya kedinginan dan harus memakai jaket
 1. jika saya  gagal snmptn dan gagal sbmptn maka saya kuliah ditelkom tercinta
 
-## RULES
-1. Fork repo ini.
-2. Clone hasil fork dari repo ini.
-3. Buatlah file sesuai soal yang akan dikerjakan.
-4. dalam membuat file taruh identitas di paling atas. contoh : 
-```
-# Nama : Alfara Nafi Dinara
-# Username : nafidinara
-<YOUR CODE HERE/>
-```
-5. Setelah selesai lakukan push dan pull request.
-7. Satu anak maksimal mengerjakan 4 soal
-8. Jika pull request belum di accept, jangan mengerjakan soal lainya dulu
-
-[video tutorial](https://drive.google.com/file/d/1YCBIJManN2GU99DDMjdS3kLBac2JQtbO/view?usp=sharing)
