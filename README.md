@@ -22,3 +22,5 @@
 <YOUR CODE HERE/>
 ```
 5. Setelah selesai lakukan push dan pull request.
+
+[video tutorial](https://drive.google.com/file/d/1YCBIJManN2GU99DDMjdS3kLBac2JQtbO/view?usp=sharing)
