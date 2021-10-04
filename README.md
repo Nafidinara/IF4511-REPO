@@ -2,6 +2,7 @@
 ### BANK SOAL
 1. buatlah program menghitung luas lingkaran (luas_lingkaran.py)
 2. buatlah program menghitung luas segitiga (luas_segitiga.py)
+3. buatlah program menghitung 
 
 ## RULES
 1. Fork repo ini.
@@ -14,3 +15,5 @@
 <YOUR CODE HERE/>
 ```
 5. Setelah selesai lakukan push dan pull request.
+7. Satu anak maksimal mengerjakan 4 soal
+8. Jika pull request belum di acc, jangan mengerjakan soal lainya dulu
