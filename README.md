@@ -9,7 +9,7 @@
 7. buatlah program menentukan sebuah bilangan termasuk bilangan ganjil atau genap (ganjil_genap.py)
 8. buatlah program menentukan sebuah bilangan termasuk bilangan prima atau bukan (bilangan_prima.py)
 8. buatlah program menentukan faktor dari sebuah bilangan (faktor_bilangan.py)
-10. buatlah program kalkulator sederhana (kalkulator.py)
+10. buatlah program kalkulator sederhana (kalkulator.py) ☑
 
 ## RULES
 1. Fork repo ini.
