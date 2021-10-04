@@ -3,5 +3,5 @@
 
 phi = 3.14
 r = float(input("Masukkan panjang jari-jari lingkaran: "))
-luas = phi*r*r
-print("Hasil luas lingkaran adalah : "+ str(luas))
+luas = phi*r**2
+print("Hasil luas lingkaran adalah : "+ luas)
