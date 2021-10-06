@@ -16,7 +16,7 @@
 
 ### BANK SOAL
 1. buatlah program menghitung luas lingkaran (luas_lingkaran.py) ☑
-2. buatlah program menghitung luas segitiga (luas_segitiga.py)
+2. buatlah program menghitung luas segitiga (luas_segitiga.py) ☑
 3. buatlah program menghitung luas persegi (luas_persegi.py)
 4. buatlah program menghitung volume tabung (volume_tabung.py) ☑
 5. buatlah program menghitung volume prisma segitiga (volume_prisma_segitiga.py)
